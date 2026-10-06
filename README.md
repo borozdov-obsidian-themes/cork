@@ -36,10 +36,14 @@ and one amber sticker for what you act on.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Cork**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Palette**. Install Borozdov Palette under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Cork** under Style Settings → Borozdov Palette → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/cork/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Cork/`, then choose Borozdov Cork under
 Settings → Appearance → Themes.
@@ -59,5 +63,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Песок» — бумажный рабочий стол,
 приколотый к пробковой доске, и тёмный «Графит» — тот же стол после работы. Песочный стол для
 интерфейса, белые окна с тонкими краями для заметки и карточек, углы 4px, округлые жирные
-заголовки (Nunito) и одна янтарная наклейка для того, что вы делаете. Устанавливается из
-каталога: Настройки → Оформление → Темы → Настроить → Borozdov Cork → Установить и применить.
+заголовки (Nunito) и одна янтарная наклейка для того, что вы делаете. В каталоге тема живёт вариантом Borozdov Palette: установите Borozdov Palette и плагин Style Settings, затем выберите Cork в Style Settings → Borozdov Palette → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
